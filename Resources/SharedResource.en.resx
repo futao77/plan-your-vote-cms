@@ -28,7 +28,7 @@
     <!-- Models -->
         <!--Model: BallotIssue-->
     <data name="BallotIssueId" xml:space="preserve">
-        <value>Ballot Issue Id</value>
+        <value>Ballot issue Id</value>
     </data>
     
     <data name="ElectionId" xml:space="preserve">
@@ -40,7 +40,7 @@
     </data>
     
     <data name="BallotIssue" xml:space="preserve">
-        <value>Ballot Issue</value>
+        <value>Ballot issue</value>
     </data>
     
     <data name="Description" xml:space="preserve">
@@ -48,7 +48,7 @@
     </data>
     
     <data name="BallotIssueOptions" xml:space="preserve">
-        <value>Ballot Issue Options</value>
+        <value>Ballot issue options</value>
     </data>
     
     
@@ -66,7 +66,7 @@
     </data>    
     
     <data name="CandidateDetails" xml:space="preserve">
-        <value>Candidate Details</value>
+        <value>Candidate details</value>
     </data>
     
     <data name="Organization" xml:space="preserve">
@@ -74,7 +74,7 @@
     </data>
     
     <data name="CandidateRaces" xml:space="preserve">
-        <value>Candidate Races</value>
+        <value>Candidate races</value>
     </data>
     
     <data name="Contacts" xml:space="preserve">
@@ -384,48 +384,48 @@
     <!-- SocialMedias -->
 
     <data name="socialMedia_create_title" xml:space="preserve">
-        <value>Create New Social Media Icon</value>
+        <value>Create new social media icon</value>
     </data>
 
     <data name="socialMedia_delete_title" xml:space="preserve">
-        <value>Delete Social Media Icon</value>
+        <value>Delete social media icon</value>
     </data>
 
     <data name="socialMedia_detail_title" xml:space="preserve">
-        <value>Social Media Icon Details</value>
+        <value>Social media icon details</value>
     </data>
 
     <data name="socialMedia_edit_title" xml:space="preserve">
-        <value>Edit Social Media Icon</value>
+        <value>Edit social media icon</value>
     </data>
 
     <data name="socialMedia_index_title" xml:space="preserve">
-        <value>Social Media Icons</value>
+        <value>Social media icons</value>
     </data>
 
     <!-- state -->
     <data name="state_edit_title" xml:space="preserve">
-        <value>Change Election</value>
+        <value>Change election</value>
     </data>
 
     <data name="state_index_title" xml:space="preserve">
-        <value>Manage Elections</value>
+        <value>Manage elections</value>
     </data>
     <data name="state_index_changeButton" xml:space="preserve">
         <value>CHANGE</value>
     </data>
     <!-- Steps -->
     <data name="steps_create_title" xml:space="preserve">
-        <value>Create New Step</value>
+        <value>Create new step</value>
     </data>
     <data name="steps_delete_title" xml:space="preserve">
-        <value>Delete Step</value>
+        <value>Delete step</value>
     </data>
     <data name="steps_details_title" xml:space="preserve">
-        <value>Step Details</value>
+        <value>Step details</value>
     </data>
     <data name="steps_edit_title" xml:space="preserve">
-        <value>Edit Step</value>
+        <value>Edit step</value>
     </data>
     <data name="steps_index_title" xml:space="preserve">
         <value>Steps</value>
@@ -433,7 +433,7 @@
     
     <!-- Themes -->
     <data name="themes_index_title" xml:space="preserve">
-        <value>Change Theme</value>
+        <value>Themes</value>
     </data>
     
     <data name="themes_index_error" xml:space="preserve">
@@ -510,19 +510,19 @@
     </data>
     <!-- Candidates views-->
     <data name="candidates_create_title" xml:space="preserve">
-        <value>Create New Candidate</value>
+        <value>Create candidate</value>
     </data>
 
     <data name="candidates_delete_title" xml:space="preserve">
-        <value>Delete Candidate</value>
+        <value>Delete candidate</value>
     </data>
 
     <data name="candidates_details_title" xml:space="preserve">
-        <value>Candidate Details</value>
+        <value>Candidate details</value>
     </data>
 
     <data name="candidates_edit_title" xml:space="preserve">
-        <value>Edit Candidate</value>
+        <value>Edit candidate</value>
     </data>
 
     <data name="candidates_index_title" xml:space="preserve">
@@ -530,7 +530,7 @@
     </data>
 
     <data name="candidates_index_order" xml:space="preserve">
-        <value>Ballot Order</value>
+        <value>Ballot order</value>
     </data>
     <data name="candidates_index_orderAZ" xml:space="preserve">
         <value>Name A-Z</value>
@@ -544,7 +544,7 @@
     <value>EDIT BALLOT ORDER</value>
 </data>    
     <data name="candidates_reorder_title" xml:space="preserve">
-    <value>Reorder Ballot</value>
+    <value>Reorder ballot</value>
 </data>
     
     <data name="saveChangeButton" xml:space="preserve">
@@ -553,23 +553,23 @@
 
     <!-- Elections -->
     <data name="elections_create_title" xml:space="preserve">
-        <value>Create New Election</value>
+        <value>Create new election</value>
     </data>
 
     <data name="elections_delete_title" xml:space="preserve">
-        <value>Delete Election</value>
+        <value>Delete election</value>
     </data>
     
     <data name="elections_details_title" xml:space="preserve">
-        <value>Election Details</value>
+        <value>Election details</value>
     </data>
 
     <data name="elections_edit_title" xml:space="preserve">
-        <value>Edit Election</value>
+        <value>Edit election</value>
     </data>
 
     <data name="elections_index_title" xml:space="preserve">
-        <value>All Elections</value>
+        <value>All elections</value>
     </data>
     
 
@@ -661,7 +661,7 @@
 <!-- Polling Places -->
 
 	<data name="pollingPlaces_create_title" xml:space="preserve">
-        <value>Create New Polling Place</value>
+        <value>Create new polling place</value>
     </data>
 	
 	<data name="pollingPlaces_create_add" xml:space="preserve">
@@ -669,19 +669,19 @@
     </data>
 	
 	<data name="pollingPlaces_delete_title" xml:space="preserve">
-        <value>Delete Polling Place</value>
+        <value>Delete polling place</value>
     </data>
 	
 	<data name="pollingPlaces_details_title" xml:space="preserve">
-        <value>Polling Place Details</value>
+        <value>Polling place details</value>
     </data>	
 	
 	<data name="pollingPlaces_edit_title" xml:space="preserve">
-        <value>Edit Polling Place</value>
+        <value>Edit polling place</value>
     </data>	
 	
 	<data name="pollingPlaces_edit_delete" xml:space="preserve">
-        <value>Remove Date</value>
+        <value>Remove date</value>
     </data>	
 	
 	<data name="pollingPlaces_edit_add" xml:space="preserve">
@@ -689,33 +689,33 @@
     </data>	
 	
 	<data name="pollingPlaces_index_title" xml:space="preserve">
-        <value>Polling Places</value>
+        <value>Polling places</value>
     </data>	
 	
 	<data name="pollingPlaces_index_create" xml:space="preserve">
-        <value>Create New</value>
+        <value>Create new</value>
     </data>	
 	
 	<data name="pollingPlaces_pollingDate_removeDate" xml:space="preserve">
-        <value>Remove Date</value>
+        <value>Remove date</value>
     </data>	
 	
 <!-- Races -->
 
 	<data name="races_create_title" xml:space="preserve">
-        <value>Create New Race</value>
+        <value>Create new race</value>
     </data>	
 
 	<data name="races_delete_title" xml:space="preserve">
-        <value>Delete Race</value>
+        <value>Delete race</value>
     </data>	
 	
 	<data name="races_details_title" xml:space="preserve">
-        <value>Race Details</value>
+        <value>Race details</value>
     </data>	
 	
 	<data name="races_edit_title" xml:space="preserve">
-        <value>Edit Race</value>
+        <value>Edit race</value>
     </data>	
 	
 	<data name="races_index_title" xml:space="preserve">
@@ -723,15 +723,15 @@
     </data>	
 	
 	<data name="races_index_create" xml:space="preserve">
-        <value>Create New</value>
+        <value>Create new</value>
     </data>	
 	
 	<data name="races_index_reorder" xml:space="preserve">
-        <value>Edit Ballot Order</value>
+        <value>Edit ballot order</value>
     </data>	
 	
 	<data name="races_reorder_title" xml:space="preserve">
-        <value>Reorder Races</value>
+        <value>Reorder races</value>
     </data>	
 
     <!-- Open Graphs -->
@@ -773,13 +773,13 @@
         <value>Elections</value>
     </data>
     <data name="shared_layout_ElectoinsOptionManage" xml:space="preserve">
-        <value>Manage Elections</value>
+        <value>Manage elections</value>
     </data>
     <data name="shared_layout_ElectionsOptionAll" xml:space="preserve">
-        <value>All Elections</value>
+        <value>All elections</value>
     </data>
     <data name="shared_layout_navElectionDetails" xml:space="preserve">
-        <value>Election Details</value>
+        <value>Election details</value>
     </data>
     <data name="shared_layout_ElectionDetailsOptionSteps" xml:space="preserve">
         <value>Steps</value>
@@ -791,22 +791,25 @@
         <value>Questions</value>
     </data>
     <data name="shared_layout_ElectionDetailsOptionPolling" xml:space="preserve">
-        <value>Polling Places</value>
+        <value>Polling places</value>
     </data>
-    <data name="shared_layout_navCandidateDetails" xml:space="preserve">
-        <value>Candidate Details</value>
+    <data name="shared_layout_navSiteContents" xml:space="preserve">
+        <value>Site contents</value>
+    </data>
+  <data name="shared_layout_navCandidateDetails" xml:space="preserve">
+        <value>Candidate details</value>
     </data>
     <data name="shared_layout_CandidateDetailsOptionCandidates" xml:space="preserve">
         <value>Candidates</value>
     </data>
     <data name="shared_layout_CandidateDetailsOptionCreate" xml:space="preserve">
-        <value>Create Candidate</value>
+        <value>Create candidate</value>
     </data>
     <data name="shared_layout_CandidateDetailsOptionOrganizations" xml:space="preserve">
         <value>Organizations</value>
     </data>
     <data name="shared_layout_navUIDetails" xml:space="preserve">
-        <value>UI Details</value>
+        <value>UI details</value>
     </data>
     <data name="shared_layout_UIDetailsOptionImages" xml:space="preserve">
         <value>Images</value>
@@ -815,10 +818,10 @@
         <value>Themes</value>
     </data>
     <data name="shared_layout_UIDetailsOptionSMI" xml:space="preserve">
-        <value>Social Media Icons</value>
+        <value>Social media icons</value>
     </data>
     <data name="shared_layout_navUserManagement" xml:space="preserve">
-        <value>User Management</value>
+        <value>User management</value>
     </data>
     <data name="shared_layout_footerBrand" xml:space="preserve">
         <value>2019 - Plan Your Vote -</value>
