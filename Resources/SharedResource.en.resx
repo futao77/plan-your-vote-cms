@@ -454,7 +454,7 @@
     <!-- UserManagement -->
 
     <data name="userManagement_index_title" xml:space="preserve">
-        <value>User Management</value>
+        <value>User management</value>
     </data>
     
     <data name="userManagement_edit_title" xml:space="preserve">
